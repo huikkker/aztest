@@ -1,0 +1,64 @@
+{
+    "color": "#ffc107",
+    "logo_size": "400",
+    "banner_enabled": "0",
+    "banner_color": "#af0d0d",
+    "banner_interval": "5",
+    "banner_texts": [
+        {
+            "text": "Bienvenue sur Azuriom - Le serveur Minecraft ultime !"
+        }
+    ],
+    "footer_description": "Rejoignez notre communaut\u00e9 Minecraft et plongez dans une aventure exceptionnelle aux c\u00f4t\u00e9s de joueurs passionn\u00e9s. Construisez, explorez et relevez des d\u00e9fis \u00e9piques dans un univers sans limite.",
+    "footer_order": [
+        "links",
+        "about",
+        "social"
+    ],
+    "footer_links": [
+        {
+            "name": "Vote",
+            "value": "https://azuriom.com"
+        },
+        {
+            "name": "Boutique",
+            "value": "https://azuriom.com"
+        }
+    ],
+    "legal_links": {
+        "0": {
+            "name": "CGU",
+            "value": "https://azuriom.com"
+        },
+        "1754083990699": {
+            "name": "CGV",
+            "value": "https://azuriom.com"
+        }
+    },
+    "footer_about_title": "\u00c0 propos",
+    "footer_links_title": "Liens utiles",
+    "footer_social_title": "R\u00e9seaux sociaux",
+    "articles_default_image": null,
+    "vote_page_description": "Soutenez le serveur et gagnez des r\u00e9compenses !",
+    "vote_ranking_description": "D\u00e9couvrez les meilleurs voteurs de ce mois et leurs r\u00e9compenses !",
+    "vote_rewards_description": "Voici les r\u00e9compenses que vous pouvez gagner en votant !",
+    "vote_site_icon": "bi bi-award",
+    "unique_players": "150",
+    "record_players": "276",
+    "cta_title": "Pr\u00eat \u00e0 commencer l'aventure ?",
+    "cta_description": "Rejoignez des milliers de joueurs et cr\u00e9ez votre propre histoire dans notre univers Minecraft unique.",
+    "cta_button_type": "server",
+    "cta_button_text": "Jouer",
+    "cta_button_link": "https://azuriom.com/en",
+    "about_image": null,
+    "about_title": "\u041e \u043d\u0430\u0441",
+    "about_description": "<p>\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435</p>",
+    "stats_icon_1": "bi bi-people-fill",
+    "stats_icon_2": "bi bi-person-fill",
+    "stats_icon_3": "bi bi-trophy-fill",
+    "unique_players_label": "\u0422\u0435\u043a\u0441\u0442 2",
+    "record_players_label": "Record de joueurs",
+    "online_players_label": "\u0422\u0435\u043a\u0441\u0442 3",
+    "font_url": null,
+    "font_family": null
+}
